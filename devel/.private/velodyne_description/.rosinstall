@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kush/Desktop/ros_ws_iq/devel/.private/velodyne_description/setup.sh

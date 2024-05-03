@@ -1,0 +1,5 @@
+Symlinking /home/kush/Desktop/ros_ws_iq/devel/lib/libgazebo_ros_velodyne_laser.so
+Symlinking /home/kush/Desktop/ros_ws_iq/devel/lib/libgazebo_ros_velodyne_gpu_laser.so
+Symlinking /home/kush/Desktop/ros_ws_iq/devel/lib/pkgconfig/velodyne_gazebo_plugins.pc
+Symlinking /home/kush/Desktop/ros_ws_iq/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig.cmake
+Symlinking /home/kush/Desktop/ros_ws_iq/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/kush/Desktop/ros_ws_iq/devel/.private/catkin_tools_prebuild/setup.zsh

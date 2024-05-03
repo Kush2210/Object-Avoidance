@@ -1,0 +1,6 @@
+devel_space: /home/kush/Desktop/ros_ws_iq/devel
+install: false
+install_space: /home/kush/Desktop/ros_ws_iq/install
+profile: default
+source_space: /home/kush/Desktop/ros_ws_iq/src
+workspace: /home/kush/Desktop/ros_ws_iq
