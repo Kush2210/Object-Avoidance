@@ -2,15 +2,16 @@ This a object avoidance of UAVs using APFA algorithm
 Using velodyne VLP-16
 
 Steps:
+#
 source devel/setup.bash
 catkin build
-
+#
 run files
-# roscore
-# roslaunch iq_sim lidar.world
-# python3 velopos.py
-# sim_vehicle.py -v ArduCopter -f gazebo-iris --console
-# python3 sensors.py 
+ roscore
+ roslaunch iq_sim lidar.world
+ python3 velopos.py
+ sim_vehicle.py -v ArduCopter -f gazebo-iris --console
+ python3 sensors.py 
 
 Main project files are in folder src/velodyne-description/scripts
 
