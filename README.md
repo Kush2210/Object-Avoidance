@@ -1,5 +1,5 @@
-This a object avoidance of UAVs using APFA algorithm
-Using velodyne VLP-16
+This a object avoidance of UAVs using APFA algorithm.
+Using velodyne VLP-16.
 
 Steps:
 #
